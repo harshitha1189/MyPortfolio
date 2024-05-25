@@ -1,0 +1,47 @@
+.body{
+    display:flex;
+    height:100%;
+}
+.nav-item{
+    color:aliceblue;
+}
+.container1{
+    justify-content: center;
+    text-align: center;
+    background-color: #7469B6;
+}
+
+
+
+.container2{
+
+    background-color:#FBB7C7;
+
+}
+.container img{
+    
+    border-radius: 25%;
+    height:390px;
+}
+.container3{
+    
+    background-color: #AD88C6;
+}
+#projects{
+    height:100%;
+    width:100%;
+    display: inline-block;
+    background-color:palevioletred;
+}
+#projects{
+    display: inline-block;
+    background-color: #E1AFD1;
+}
+#contact{
+    height: 100%;
+    width:100%;
+    background-color:#FFCBCB;
+}
+
+  
+  
